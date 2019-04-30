@@ -7,8 +7,8 @@
  */
 /**
  * @param {TreeNode} root
- * @return {number[][]}
+ * @return {number[]}
  */
-var levelOrder = function(root) {
+var inorderTraversal = function(root) {
 
 };
