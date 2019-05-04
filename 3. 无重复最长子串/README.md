@@ -35,4 +35,4 @@
 
 为了表示该子串，我们用`i`和`j`分别表示子串的起始和结束位置，子串的长度就是`j - i + `。每当遇到重复的字符就更新起始位置`i`。如此循环遍历，直到最后找出最大值。
 
-代码实现：[lengthOfLongestSubstring.js](https://github.com/xwchris/Leetcode/tree/master/3.%20%E9%87%8D%E5%A4%8D%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/lengthOfLongestSubstring.js)
+代码实现：[lengthOfLongestSubstring.js](https://github.com/xwchris/Leetcode/tree/master/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/lengthOfLongestSubstring.js)
