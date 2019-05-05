@@ -30,4 +30,4 @@
 根据该步骤求出单个柱子雨水量，然后把所有雨水量相加得到最终结果
 
 
-代码实现： [trap.js](https://github.com/xwchris/Leetcode/tree/master42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4/trap.js)
+代码实现： [trap.js](https://github.com/xwchris/Leetcode/blob/master/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4/trap.js)
